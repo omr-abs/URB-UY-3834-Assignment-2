@@ -5,13 +5,13 @@
 ## Professor Vantu 
 
 Graduated Map of 311 Complaints: 
-
+This maps represnts all the 311 noise-related complaints reported in Manhattan in a graduated view between the period of April 1st, 2021 to July 31, 2021. 
 ![Graduated_311](https://user-images.githubusercontent.com/52751378/137824468-c8883cec-835e-44a5-86e9-677bc7160dcf.png)
 
 Dot Map of 311 Complaints Categorized: 
-
+This map shows the 311 noise complaints split up into five different categories represnted by dots on top of the total noise complaints represented in a graduated view. 
 ![Categorized_311s](https://user-images.githubusercontent.com/52751378/137824491-36915b3a-52b0-4ac3-8e95-4d47e2a20d05.png)
 
 Map of Ice Cream Trucks Related Noise and Open Space/ Parks:
-
+This map shows the Ice Cream Trcuks related noise complaints in respect to the open spacs and parks in Manhattan. 
 ![IcecreamTrucks-Noise](https://user-images.githubusercontent.com/52751378/137824539-03d7cb88-9c53-4e06-9ed3-a7931cefc028.png)
