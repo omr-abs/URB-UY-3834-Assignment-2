@@ -14,7 +14,7 @@ This map shows the 311 noise complaints split up into five different categories 
 
 Map of Ice Cream Trucks Related Noise and Open Space/ Parks:
 This map shows the Ice Cream Trcuks related noise complaints in respect to the open spacs and parks in Manhattan. 
-![IcecreamTrucks-Noise](https://user-images.githubusercontent.com/52751378/137824539-03d7cb88-9c53-4e06-9ed3-a7931cefc028.png)
+![ICECREAM_COMPLAINTS_SCHLS+PARKS](https://user-images.githubusercontent.com/52751378/139091279-42ed5bca-d41e-4077-81fa-1b9ca485ee3a.png)
 
 Data Interpretation: 
 
