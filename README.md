@@ -19,4 +19,5 @@ This map shows the Ice Cream Trcuks related noise complaints in respect to the o
 Data Interpretation: 
 
 I noticed the highest ocncentration of 311 noise-related complaints in the northern area of Manhattan starting from Harlem to Washington Heights. Majority of these areas had complaints ranging from 4819-7811 complaints. Also, lower Manhattan had high number of noise complaints, but at a lower concentration ranging from 2988-4819 complaints. Lower Manhattan could have high noise complaints due to the very busy nature of the area. In the northern part of Manhattan, high noise complaints could be related to income and also it being an area with a high population density. 
+
 I noticed that most of the Ice Cream Truck related nosie complaints were close to open spaces and parks around Manhattan. These areas are mostly where children will be located, the perfect customers for Ice Cream Trucks. I uploaded data for Elementary schools areound Manhattan, open spaces and parks, and playgrounds. In almost all cases of Ice Cream Truck Noise Complaints, they wrere located near either one of those three or near a combination of one or more of them.
